@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a4/subString/t10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a4/subString/t11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a4/subString/t12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +94,7 @@
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.t10.executor": "Run",
+    "应用程序.t15.executor": "Run",
     "应用程序.t7.executor": "Run",
     "应用程序.t8.executor": "Run",
     "应用程序.t9.executor": "Run"
@@ -114,7 +117,8 @@
       <updated>1785491787326</updated>
       <workItem from="1785491791380" duration="3700000" />
       <workItem from="1785587254850" duration="4649000" />
-      <workItem from="1785651765824" duration="7282000" />
+      <workItem from="1785651765824" duration="8199000" />
+      <workItem from="1785764999429" duration="5324000" />
     </task>
     <servers />
   </component>
