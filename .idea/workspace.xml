@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a5/ordinaryArray/t17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a6/matrix/t18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a6/matrix/t19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a6/matrix/t20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a6/matrix/t21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,35 +70,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.t10.executor": "Run",
-    "应用程序.t15.executor": "Run",
-    "应用程序.t7.executor": "Run",
-    "应用程序.t8.executor": "Run",
-    "应用程序.t9.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.t10.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.t15.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.t7.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.t8.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.t9.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,6 +118,7 @@
       <workItem from="1785587254850" duration="4649000" />
       <workItem from="1785651765824" duration="8199000" />
       <workItem from="1785764999429" duration="5324000" />
+      <workItem from="1785857524632" duration="6516000" />
     </task>
     <servers />
   </component>
