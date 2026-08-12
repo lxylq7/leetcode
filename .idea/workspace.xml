@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a10/back/t62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a10/back/t59.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,35 +74,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.t10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t15.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t8.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t9.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.t10.executor": "Run",
+    "应用程序.t15.executor": "Run",
+    "应用程序.t7.executor": "Run",
+    "应用程序.t8.executor": "Run",
+    "应用程序.t9.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -121,7 +131,8 @@
       <workItem from="1786182686658" duration="2033000" />
       <workItem from="1786279204156" duration="5718000" />
       <workItem from="1786343459895" duration="6293000" />
-      <workItem from="1786450213357" duration="1630000" />
+      <workItem from="1786450213357" duration="4003000" />
+      <workItem from="1786521473973" duration="5069000" />
     </task>
     <servers />
   </component>

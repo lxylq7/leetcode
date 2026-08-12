@@ -2,7 +2,7 @@ package a10.back;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// 生成括号
 public class t59 {
     class Solution {
         public List<String> generateParenthesis(int n) {
