@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a10/back/t62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a10/back/t59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a10/back/t59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a11/binarySearch/t68.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <workItem from="1786279204156" duration="5718000" />
       <workItem from="1786343459895" duration="6293000" />
       <workItem from="1786450213357" duration="4003000" />
-      <workItem from="1786521473973" duration="5069000" />
+      <workItem from="1786521473973" duration="10579000" />
     </task>
     <servers />
   </component>
