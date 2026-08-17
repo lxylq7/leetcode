@@ -5,6 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/a12/stack/t69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a12/stack/t70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a12/stack/t71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a12/stack/t72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a12/stack/t73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a13/heap/t74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a13/heap/t75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a13/heap/t76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a15/dp/t90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a17/technique/t100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a17/technique/t96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a17/technique/t97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a17/technique/t98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a17/technique/t99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a11/binarySearch/t68.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +156,8 @@
       <workItem from="1786613320954" duration="2944000" />
       <workItem from="1786806053868" duration="167000" />
       <workItem from="1786892772388" duration="11000" />
+      <workItem from="1786899450040" duration="5240000" />
+      <workItem from="1786946354730" duration="17712000" />
     </task>
     <servers />
   </component>
