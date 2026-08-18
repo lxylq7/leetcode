@@ -5,8 +5,13 @@ public class t98 {
         int n = nums.length;
         int p0 = 0,p1 = 0;
         for (int i = 0; i < n; i++) {
-            if (nums[i] == 1) {
-//
+            int x = nums[i];
+            nums[i] = 2;
+            if (x <= 1) {
+                nums[p1++] = 1;
+            }
+            if (x == 0) {
+                nums[p0++] = 0;
             }
         }
     }
