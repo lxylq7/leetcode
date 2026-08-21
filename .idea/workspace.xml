@@ -5,14 +5,111 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbbcfc7-4535-48a7-b56c-687a407a016a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a16/multidp/t91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a16/multidp/t92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a16/multidp/t93.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a16/multidp/t94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a16/multidp/t95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a17/technique/t100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a17/technique/t100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a17/technique/t98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a17/technique/t98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a17/technique/t99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a17/technique/t99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/code3116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a1/hash/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/hash/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a1/hash/t2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/hash/t2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a1/hash/t3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/hash/t3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a10/back/t62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/back/t62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a11/binarySearch/t68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binarySearch/t68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a12/stack/t69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/stack/t69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a12/stack/t70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/stack/t70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a12/stack/t71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/stack/t71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a12/stack/t72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/stack/t72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a12/stack/t73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/stack/t73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a13/heap/t74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/heap/t74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a13/heap/t75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/heap/t75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a13/heap/t76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/heap/t76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/greedyAlgorithm/t77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/greedyAlgorithm/t78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/greedyAlgorithm/t79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a14/greedyAlgorithm/t80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/greedyAlgorithm/t80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a15/dp/t90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/dp/t90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a16/multidp/t91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/multidp/t91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a16/multidp/t92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/multidp/t92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a16/multidp/t93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/multidp/t93.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a16/multidp/t94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/multidp/t94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a16/multidp/t95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/multidp/t95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a17/technique/t100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/technique/t100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a17/technique/t96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/technique/t96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a17/technique/t97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/technique/t97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a17/technique/t98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/technique/t98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a17/technique/t99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/technique/t99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a2/doublePointers/t4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/doublePointers/t4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a2/doublePointers/t5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/doublePointers/t5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a2/doublePointers/t6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/doublePointers/t6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a2/doublePointers/t7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/doublePointers/t7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a3/slidingWindow/t8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/slidingWindow/t8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a3/slidingWindow/t9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/slidingWindow/t9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a4/subString/t10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/subString/t10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a4/subString/t11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/subString/t11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a4/subString/t12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/subString/t12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a5/ordinaryArray/t13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/ordinaryArray/t13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a5/ordinaryArray/t14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/ordinaryArray/t14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a5/ordinaryArray/t15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/ordinaryArray/t15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a5/ordinaryArray/t16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/ordinaryArray/t16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a5/ordinaryArray/t17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/ordinaryArray/t17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a6/matrix/t18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/matrix/t18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a6/matrix/t19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/matrix/t19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a6/matrix/t20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/matrix/t20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a6/matrix/t21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/matrix/t21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a7/linkedList/t34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/linkedList/t34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a8/binaryTree/t50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/binaryTree/t50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a9/graph/t51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/graph/t51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a9/graph/t52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/graph/t52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a9/graph/t53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/graph/t53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a9/graph/t54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hot100/graph/t54.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,38 +171,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.t10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t15.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t8.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.t9.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/lxylq-shopSystem/mall-cloud/leetcode/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.t10.executor": "Run",
+    "应用程序.t15.executor": "Run",
+    "应用程序.t7.executor": "Run",
+    "应用程序.t8.executor": "Run",
+    "应用程序.t9.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -139,6 +236,9 @@
       <workItem from="1786899450040" duration="5240000" />
       <workItem from="1786946354730" duration="22218000" />
       <workItem from="1787066106891" duration="6941000" />
+      <workItem from="1787130111044" duration="14000" />
+      <workItem from="1787241586071" duration="622000" />
+      <workItem from="1787325516763" duration="1547000" />
     </task>
     <servers />
   </component>
